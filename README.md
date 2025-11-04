@@ -14,9 +14,9 @@ Each project includes full **data preprocessing, model building, tuning, and Str
 An end-to-end **Artificial Neural Network (ANN)** project that predicts whether a Spotify user is likely to churn based on their usage patterns and listening behavior.  
 The system helps identify at-risk users, enabling proactive retention strategies.
 
-** Framework:** TensorFlow / Keras  
-** Model Type:** Binary Classification  
-** Deployment:** Streamlit (Live App)  
+**Framework:** TensorFlow / Keras  
+**Model Type:** Binary Classification  
+**Deployment:** Streamlit (Live App)  
 
 **Key Features**
 - Built an ANN with multiple hidden layers using ELU activations.  
